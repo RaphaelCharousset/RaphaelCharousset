@@ -10,7 +10,7 @@
 
 <h3 align="left">Me contacter</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raphael-charousset-436276154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael charousset" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/raphaelcharousset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael charousset" height="40" width="40" /></a>
 <a href="mailto:raphael.charousset@gmail.com" target="blank"><img align="center" src="/icons/mail.svg" height="40" width="40" /></a>
 </p>
 
