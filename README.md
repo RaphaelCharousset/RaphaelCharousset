@@ -12,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a todo app with React / Redux / Sass and Firebase for database (save tasks, login)
+- 🔭 I’m currently working on a certification
 
-- 🌱 I’m currently learning React / Redux / Firebase
+- 🌱 I’m currently learning Typescript
 
 - 👯 I’m looking to collaborate on Projects
 
